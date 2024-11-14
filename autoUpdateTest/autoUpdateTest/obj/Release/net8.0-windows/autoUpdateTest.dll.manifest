@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="autoUpdateTest.exe" version="1.0.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="autoUpdateTest.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <application />
   <entryPoint>
     <assemblyIdentity name="Launcher" version="8.0.0.0" language="neutral" processorArchitecture="msil" />
@@ -62,22 +62,22 @@
       <dsig:DigestValue>iokWg/X1rIiswZuyA3BIqLpaAS5F0Q8aZm64G/ZCRDM=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="autoUpdateTest.dll" size="6144">
+  <file name="autoUpdateTest.dll" size="5632">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>x4Bw6EIzkGe2OSkR9RM/b/0BYEhIIWUZeO0aglQkcM4=</dsig:DigestValue>
+      <dsig:DigestValue>DvRiAS9dpFMZurAiiD4kctZtiNMc7pRNqOuJ3O5Ap5U=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="autoUpdateTest.exe" size="140800">
+  <file name="autoUpdateTest.exe" size="140288">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>q33x0ZBi7viF2AUIiQXB04+/2umnjvsFVGDBDwfZ1/k=</dsig:DigestValue>
+      <dsig:DigestValue>m93JOoylfnVXlA9VcnRPm9uEBSWLOrQSHXvZRusw8m8=</dsig:DigestValue>
     </hash>
   </file>
   <file name="autoUpdateTest.runtimeconfig.json" size="458">
