@@ -1,0 +1,5 @@
+D:\Code\autoUpdateTest\autoUpdateTest\autoUpdateTest\bin\Release\net8.0-windows\app.publish\autoUpdateTest.exe
+D:\Code\autoUpdateTest\autoUpdateTest\autoUpdateTest\bin\Release\net8.0-windows\app.publish\autoUpdateTest.dll
+D:\Code\autoUpdateTest\autoUpdateTest\autoUpdateTest\bin\Release\net8.0-windows\app.publish\autoUpdateTest.deps.json
+D:\Code\autoUpdateTest\autoUpdateTest\autoUpdateTest\bin\Release\net8.0-windows\app.publish\autoUpdateTest.runtimeconfig.json
+D:\Code\autoUpdateTest\autoUpdateTest\autoUpdateTest\bin\Release\net8.0-windows\app.publish\autoUpdateTest.pdb
